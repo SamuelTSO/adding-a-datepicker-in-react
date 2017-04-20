@@ -1,6 +1,6 @@
 #### Tutorial: Adding a Datepicker in React
 
-In this tutorial, we'll learn how to implement the <
+In this tutorial, we'll learn how to implement the `<DateInput
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/adding-a-datepicker-in-react)  
 
