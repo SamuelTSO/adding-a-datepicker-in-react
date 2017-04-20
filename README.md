@@ -1,6 +1,6 @@
 #### Tutorial: Adding a Datepicker in React
 
-In this tutorial, we'll learn how to implement the `<DateInput />` component from Pla
+In this tutorial, we'll learn how to implement the `<DateInput />` component from Palantir's Blueprint library. We'll see how to pull in all of the dependencies we
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/adding-a-datepicker-in-react)  
 
