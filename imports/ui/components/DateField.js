@@ -17,7 +17,6 @@ class DateField extends React.Component {
         format="MMMM Do, YYYY"
         value={this.state.value}
         onChange={value => this.setState({ value })}
-        name={this.props.name}
         minDate={(new Date(moment().subtract(90, 'years').format()))}
       />
     </div>);
