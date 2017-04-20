@@ -1,17 +1,15 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+#### Tutorial: Adding a Datepicker in React
 
-<table>
-  <tbody>
-    <tr>
-      <th>Base Version</th>
-      <td>v4.15.0</td>
-    </tr>
-    <tr>
-      <th>Meteor Version</th>
-      <td>v1.4.4.1</td>
-    </tr>
-  </tbody>
-</table>
+In this tutorial, we'll learn how to implement the <
 
-[Read the Documentation](http://themeteorchef.com/base)
+[Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/adding-a-datepicker-in-react)  
+
+[Download the source (.zip)](https://github.com/themeteorchef/adding-a-datepicker-in-react/archive/master.zip)
+
+---
+
+**Need help with this?** [Sign up for a Mentorship appointment](https://themeteorchef.com/mentorship?readme=adding-a-datepicker-in-react) and get 1-on-1 help.
+
+---
+
+_The code for this tutorial is licensed under the [MIT License](http://opensource.org/licenses/MIT)_.
