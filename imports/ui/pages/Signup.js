@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 import { Row, Col, FormGroup, ControlLabel, FormControl, Button } from 'react-bootstrap';
+import DateField from '../components/DateField';
 import handleSignup from '../../modules/signup';
 
 export default class Signup extends React.Component {
@@ -53,6 +54,13 @@ export default class Signup extends React.Component {
                   ref="emailAddress"
                   name="emailAddress"
                   placeholder="Email Address"
+                />
+              </FormGroup>
+              <FormGroup>
+                <ControlLabel>Birthdate</ControlLabel>
+                <DateField
+                  ref={birthdate => (this.birthdate = birthdate)}
+                  value={(new Date()).toISOString()}
                 />
               </FormGroup>
               <FormGroup>
